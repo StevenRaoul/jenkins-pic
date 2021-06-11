@@ -113,7 +113,8 @@ docker ps # Check, 12 jenkins-pic_xxx containers should be up and running
 
 ## Go to jenkins
 Open your Chrome Browser    
-type the URL  http://<your_vm_ip_address>:18080   
+type the URL  http://<your_vm_ip_address>:18080 
+                    170.75.170.221
 
 ## Get the secret key 
 type ``` docker logs jenkins-pic_jenkins_1 ```  

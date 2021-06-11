@@ -5,6 +5,7 @@
 sudo apt update
 sudo apt install -y firewalld
 git clone   https://github.com/crunchy-devops/jenkins-pic.git
+https://github.com/StevenRaoul/jenkins-pic
 chmod +x evict_malware.sh
 ```
 
